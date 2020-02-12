@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+img{
+	width: 200px;
+	height: 150px
+}
+body{
+	background-color: #E4FFF9;
+	font-family: 'Montserrat';
+}
+h1{
+	font-weight: bold;
+	display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   
+}
+h1, h2 {
+	color: #00848C;
+	font-family: Montserrat;
+}
+strong{
+	color: #580BE4;
+	font-weight: bold;
+}
+a{
+	color: #580BE4;
+}
